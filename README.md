@@ -23,15 +23,6 @@ A triangle can be classified based on its side lengths:
 - Sum of any two sides ≤ third side → **raises ValueError**
 
 ---
-TriangleAssignment/
-│
-├── triangle.py # Provided function to classify triangles
-├── test_triangle.py # Unit tests for all scenarios
-└── README.md # Project documentation
-
-
-
----
 
 ## Test Scenarios
 - Equilateral triangle
